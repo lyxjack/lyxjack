@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)]
+
 <h1 align="center">Hi 👋, I'm Yixin Jack Liu</h1>
 <h3 align="center">A passionate Data Analyst from Seattle</h3>
 
